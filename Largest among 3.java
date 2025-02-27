@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class swap{
+public class Largestamong3{
    public static void main(String [] args){
     int n1,n2,n3,largest;
         Scanner sc=new Scanner(System.in);
